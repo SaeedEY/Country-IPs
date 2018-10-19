@@ -4,7 +4,7 @@ MY Personal Collected List of All Countries IP Addresses<br>
 <h3>How to Use it ?</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;Just download one of "ips.txt" or "Compressed.rar" files to have full list.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;The list type is <b>JSON</b> , So you have to decode it via "Json Decode" Method in your destination programming languages !<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<i>[!] To having the main leacher script for your personal purpose , Please Submit Request Here [!]</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<i>[!] To having the main leacher script for your personal purpose , Please Submit a Request Here for Me [!]</i><br>
 <h3>What's It Advantages ?</h3>
 <ul>
   <li>Automatic Web Language Recognition</li>
